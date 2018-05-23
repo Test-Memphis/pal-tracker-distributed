@@ -7,6 +7,6 @@ applications:
   services:
   - tracker-registration-database
  env:
-    REGISTRATION_SERVER_ENDPOINT: http://registration-pal-vc
+    REGISTRATION_SERVER_ENDPOINT:
   services:
   - tracker-registration-database
