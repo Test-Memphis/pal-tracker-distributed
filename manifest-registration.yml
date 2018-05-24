@@ -6,7 +6,3 @@ applications:
   instances: 1
   services:
   - tracker-registration-database
- env:
-    REGISTRATION_SERVER_ENDPOINT:
-  services:
-  - tracker-registration-database
